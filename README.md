@@ -1,19 +1,36 @@
-# Introducing Myself
+<h1 align="center">👋 Introducing Myself</h1>
 
-![README.md](https://github.com/peterly-oce/peterly-oce/blob/main/Black%20and%20Brown%20Simple%20Modern%20Professional%20Business%20LinkedIn%20Banner.png)
+<p align="center">
+  <img src="https://github.com/peterly-oce/peterly-oce/blob/main/Black%20and%20Brown%20Simple%20Modern%20Professional%20Business%20LinkedIn%20Banner.png" 
+       alt="Banner Image" 
+       width="100%" 
+       style="max-width:900px;">
+</p>
 
-Hi, I’m @peterly-oce 👋
-I’m a Support Analyst with a growing passion for data analysis and reporting 📊
+<p align="center">
+  Hi, I’m <b>@peterly-oce</b> 👋 <br>
+  I’m a <b>Support Analyst</b> with a growing passion for <b>data analysis</b> and <b>reporting</b> 📊
+</p>
 
-I’m currently building skills in:
-💻 SQL: querying data and running ad-hoc analysis
-📈 Tableau & Power BI: creating dashboards and visual reports
-📊 Google Sheets & Excel: analyzing and sharing insights
+---
 
-🧩 Projects
-Welcome to my portfolio, where I showcase my data projects — from SQL analyses to interactive dashboards 💡
+### 💻 Currently Building Skills In
+- <b>SQL:</b> Querying data and running ad-hoc analysis  
+- <b>Tableau & Power BI:</b> Creating dashboards and visual reports  
+- <b>Google Sheets & Excel:</b> Analyzing and sharing insights  
 
-🛠️ Tools
-💬 Language: SQL, Python
-🗄️ Database: MySQL
-📊 Visualization: Tableau, Power BI
+---
+
+### 🧩 Projects
+Welcome to my <b>portfolio</b>, where I showcase my <b>data projects</b> — from SQL analyses to interactive dashboards 💡  
+
+---
+
+### 🛠️ Tools
+💬 <b>Language:</b> SQL, Python  
+🗄️ <b>Database:</b> MySQL  
+📊 <b>Visualization:</b> Tableau, Power BI  
+
+---
+
+<p align="center">📈 Always learning, always curious 🚀</p>
