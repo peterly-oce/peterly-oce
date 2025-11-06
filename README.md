@@ -1,5 +1,6 @@
 # Introducing Myself
 
+![README.md](https://github.com/peterly-oce/peterly-oce/blob/main/Black%20and%20Brown%20Simple%20Modern%20Professional%20Business%20LinkedIn%20Banner.png)
 
 Hi, I’m @peterly-oce 👋
 I’m a Support Analyst with a growing passion for data analysis and reporting 📊
