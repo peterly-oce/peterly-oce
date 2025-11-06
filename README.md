@@ -1,5 +1,5 @@
 # Introducing Myself
-![Uploading Black and Brown Simple Modern Professional Business LinkedIn Banner.png…]()
+
 
 Hi, I’m @peterly-oce 👋
 I’m a Support Analyst with a growing passion for data analysis and reporting 📊
